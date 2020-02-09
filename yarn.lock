@@ -9133,10 +9133,10 @@ react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-navi@0.13.6:
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/react-navi/-/react-navi-0.13.6.tgz#ee0249cb28e961a0af4f2dce459d993d7ff3d50f"
-  integrity sha512-2dG5j5qpxwI5SJru9ilyYxp8Jp3SOB0lkjbshcWv1L5+8Z4fv/UEmAWa5m1v+2We4w8okO4LH5nlgAmG1szlCg==
+react-navi@0.14.3:
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/react-navi/-/react-navi-0.14.3.tgz#60964017521e41c1c5e48782bb8cbab766ef8aa7"
+  integrity sha512-fht9sVtJKpiD6pk08+YNcGNLMlolm13pVWqwbQVgOqWZW/1OulhSn3pY0dyJ6PLUO56ieYk+kjou12yWSiDQEw==
   dependencies:
     "@types/history" "^4.6.2"
 
